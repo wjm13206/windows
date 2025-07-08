@@ -2,6 +2,7 @@ module.exports = {
   title: 'Windows注册表功能文档',
   description: 'Windows注册表功能文档',
   lang: 'zh-CN',
+  base: '/windows/',
   theme: 'reco',
   themeConfig: {
     subSidebar: 'auto',
@@ -24,20 +25,13 @@ module.exports = {
         ]
       },
       {
-        title: "鼠标设置",
+        title: "鼠标",
         collapsable: false,
         children: [
-          { title: "基础设置", path: "/" },
-          { title: "高级配置", path: "/" }
-        ]
-      },
-      {
-        title: "键盘设置",
-        collapsable: false,
-        children: [
-          { title: "快捷键配置", path: "/" }
+          { title: "鼠标指针轨迹设置注册表项", path: "/mouse/Displaypointertrails.md" }
         ]
       }
-    ]
+        ]
+      }
+    
   }
-}
