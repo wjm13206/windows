@@ -18,7 +18,7 @@
 ## 捐赠
 **如果是学生党就不要捐了你的心意我已经收到了**
 
- ![爱发电](https://afdian.com/a/WJM-STUDIO)  
+https://afdian.com/a/WJM-STUDIO
 
 
 ## 📧 联系作者：  
