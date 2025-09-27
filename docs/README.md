@@ -1,6 +1,6 @@
 ---
 title: Windows 注册表详解文档
-author: wjm-studio
+author: JiyunTech
 date: '2025-7-8'
 ---
 # Windows 注册表详解文档
@@ -24,7 +24,7 @@ date: '2025-7-8'
 | `HKEY_CURRENT_CONFIG` | 硬件配置信息 |
 
 ## ⚠️ 重要提示
-​**本注册表文档由 [wjm-studio] 原创整理，未经作者书面授权，禁止任何形式的：​**​
+​**本注册表文档由 [JiyunTech] 原创整理，未经作者书面授权，禁止任何形式的：​**​
 - 全文/部分转载
 - 二次修改发布
 - 商业化使用（包括但不限于付费教程、出版物等）

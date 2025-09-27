@@ -30,6 +30,21 @@ module.exports = {
         children: [
           { title: "鼠标指针轨迹设置注册表项", path: "/mouse/Displaypointertrails.md" }
         ]
+      },
+      {
+        title: "桌面",
+        collapsable: false,
+        children: [
+          { title: "桌面快捷方式箭头图标设置注册表项", path: "/desktop/RemoveShortcutArrow.md" },
+          { title: "隐藏桌面上的所有图标注册表项", path: "/desktop/HideDesktopIcons.md" }
+        ]
+      },
+      {
+        title: "系统设置",
+        collapsable: false,
+        children: [
+          { title: "自定义登录背景注册表项", path: "/system/customizeloginbackground.md" }
+        ]
       }
         ]
       }

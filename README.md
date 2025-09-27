@@ -16,9 +16,8 @@
 2. 提交 PR
 
 ## 捐赠
-**如果是学生党就不要捐了你的心意我已经收到了**
 
-https://afdian.com/a/WJM-STUDIO
+https://afdian.com/a/JiyunTech
 
 
 ## 📧 联系作者：  
