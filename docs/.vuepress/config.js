@@ -4,6 +4,18 @@ module.exports = {
   lang: 'zh-CN',
   base: '/windows/',
   theme: 'reco',
+  head: [
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+    ['meta', { name: 'keywords', content: 'Windows, 注册表, 配置, 系统优化' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
+  markdown: {
+    lineNumbers: true,
+    externalLinks: {
+      target: '_blank',
+      rel: 'noopener noreferrer'
+    }
+  },
   themeConfig: {
     subSidebar: 'auto',
     nav: [
@@ -46,7 +58,6 @@ module.exports = {
           { title: "自定义登录背景注册表项", path: "/system/customizeloginbackground.md" }
         ]
       }
-        ]
-      }
-    
+    ]
   }
+}
