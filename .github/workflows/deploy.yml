@@ -11,7 +11,7 @@ jobs:
       contents: write  # 必须要有写入权限
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
           clean: true  # 强制清理工作区
